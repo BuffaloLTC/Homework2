@@ -42,3 +42,14 @@ In terminal:
 * Input your github credentials
 * `git push origin master` push your commit to github
 * `git status` make sure that there is nothing that we missed
+ 
+##How to clone a repository
+On github:
+* Go the repository that you want to clone
+* Copy the link at the top of the page
+
+In Terminal:
+* `cd desktop` change directory to the desktop
+* `git clone *Paste Link Here*` copy the repository
+* `cd NewRepo` change directory into that new repo
+
