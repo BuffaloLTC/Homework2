@@ -9,13 +9,13 @@ Homework 2 covers the following chapters in Chris Pine's
 For practice, first try the _A Few Things to Try_ sections of each chapter that
 weren't covered during class. Then...
 
-For Homework 2:
+##For Homework 2:
 * Create your own version of the Few Things to Try.
 * Push it to a repo on your own github account
 * Share the link in the group's Wiki for [homework 2](https://github.com/BuffaloLTC/Homework2/wiki/Homework-2-Links).
 
 
-How to initialize your homework repository:
+##How to initialize your homework repository:
 
 First create the directory that you will be working in:
 In terminal:
